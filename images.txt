@@ -1,1 +1,3 @@
+--platform=linux/arm64 samba
+--platform=linux/arm64 it-tool
 --platform=linux/arm64 verysync
