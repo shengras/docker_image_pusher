@@ -1,2 +1,1 @@
-xhofe/alist:latest
-jonnyan404/verysync
+arm64v8/verysync
