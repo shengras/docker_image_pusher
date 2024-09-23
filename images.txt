@@ -7,4 +7,5 @@
 #--platform=linux/arm64 unwenliu/verysync
 #sbwml/alist:latest
 #--platform=linux/arm64 liwei2633/gopeed
---platform=linux/arm64 bltavares/zerotier
+#--platform=linux/arm64 bltavares/zerotier
+--platform=linux/arm64 homeassistant/home-assistant
