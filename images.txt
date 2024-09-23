@@ -5,4 +5,5 @@
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 #--platform=linux/arm64 unwenliu/verysync
-sbwml/alist:latest
+#sbwml/alist:latest
+--platform=linux/arm64 gopeed
