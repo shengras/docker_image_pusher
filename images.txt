@@ -15,4 +15,5 @@
 #kodcloud/kodexplorer
 #excalidraw/excalidraw
 #linuxserver/mariadb
---platform=linux/arm64 linuxserver/jellyfin
+#--platform=linux/arm64 linuxserver/jellyfin
+--platform=linux/arm64 rclone/rclone:latest
